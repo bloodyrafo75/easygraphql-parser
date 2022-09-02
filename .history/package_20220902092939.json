@@ -1,6 +1,6 @@
 {
   "name": "easygraphql-parser",
-  "version": "0.0.16",
+  "version": "0.0.15",
   "description": "Parse GraphQL Schema",
   "main": "index.js",
   "scripts": {
@@ -38,7 +38,7 @@
     "@graphql-tools/merge": "^6.0.11"
   },
   "peerDependencies": {
-    "graphql": "^0.13.0 || ^14.0.0 || ^15.0.0 || ^16.0.0"
+    "graphql": "^0.13.0 || ^14.0.0 || ^15.0.0"
   },
   "devDependencies": {
     "chai": "^4.1.2",
